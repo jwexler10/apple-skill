@@ -130,6 +130,20 @@ itself authorize changes, purchases, deployments, or other external actions.
 
 This independent project is not affiliated with or endorsed by Apple Inc. The name describes the design lens; it does not package Apple software or branding assets.
 
+## Related skills
+
+Each skill works independently. Choose the workflow that matches your question:
+
+| Skill | Use it to |
+|---|---|
+| [Aristotle](https://github.com/jwexler10/aristotle-skill) | Challenge assumptions and reason from first principles. |
+| [Bushnell](https://github.com/jwexler10/bushnell-skill) | Design immediate value and meaningful depth across repeated use. |
+| [Syndesy](https://github.com/jwexler10/syndesy-skill) | Compare alternatives fairly and commit to a defensible choice. |
+| [Evgenii](https://github.com/jwexler10/evgenii-skill) | Evaluate economic outcomes, incentives, and uncertainty. |
+
+Read the practical guide: [Five reusable workflows for better product and engineering decisions](https://github.com/jwexler10/aristotle-skill/blob/main/docs/five-decision-workflows.md).
+It includes a worked decision, installation steps, and the limits of the current validation.
+
 ## Repository contents
 
 - [`.claude-plugin/plugin.json`](.claude-plugin/plugin.json): Claude plugin metadata.
