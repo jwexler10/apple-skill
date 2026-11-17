@@ -1,0 +1,32 @@
+{
+  "name": "jwexler10-apple",
+  "owner": {
+    "name": "Jason Wexler"
+  },
+  "metadata": {
+    "description": "The Apple skill by Jason Wexler.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "apple",
+      "source": "./",
+      "description": "Experience-first product design: intuitive flows, deliberate subtraction, and recovery.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": [
+        "claude-skills",
+        "claude-code",
+        "ai-agents",
+        "agent-skills",
+        "codex",
+        "cursor",
+        "claude-cowork",
+        "mcp",
+        "product-design",
+        "user-experience",
+        "interaction-design"
+      ]
+    }
+  ]
+}

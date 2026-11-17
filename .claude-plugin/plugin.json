@@ -1,0 +1,26 @@
+{
+  "name": "apple",
+  "displayName": "Apple",
+  "version": "1.0.0",
+  "description": "Experience-first product design: intuitive flows, deliberate subtraction, and recovery.",
+  "author": {
+    "name": "Jason Wexler",
+    "url": "https://github.com/jwexler10"
+  },
+  "homepage": "https://github.com/jwexler10/apple-skill#readme",
+  "repository": "https://github.com/jwexler10/apple-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "claude-code",
+    "ai-agents",
+    "agent-skills",
+    "codex",
+    "cursor",
+    "claude-cowork",
+    "mcp",
+    "product-design",
+    "user-experience",
+    "interaction-design"
+  ]
+}
